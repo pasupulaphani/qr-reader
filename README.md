@@ -1,2 +1,2 @@
-# qreader
-QR Reader based on Web Activities.
+# qr-reader
+FirefoxOs QR reader
